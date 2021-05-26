@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CongratulationsSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e859856735f4d46708a55b6ec09db1d7, type: 3}
+    - {fileID: 2800000, guid: 55e6a0076076e4164b55b85864d63fbe, type: 3}
+    - {fileID: 2800000, guid: 33f7ad081ce2544858b97c1d7090fe57, type: 3}
+    - {fileID: 2800000, guid: 6023706eaf2784a6eabd2b677f472dbe, type: 3}
+    - {fileID: 2800000, guid: f05a6395e47ee47258abcd5f99880515, type: 3}
+    - {fileID: 2800000, guid: e224f6f6343904de1ba76ef067656e77, type: 3}
+    - {fileID: 2800000, guid: f6b7d591a26bf44558263208529c98bd, type: 3}
+    - {fileID: 2800000, guid: c6f7de7fa21164f2ca538c005bc1a86d, type: 3}
+    - {fileID: 2800000, guid: 2619b5ea0888f4a47a6fff43ea7d90da, type: 3}
+    - {fileID: 2800000, guid: 5e2f6a4625c404365b27315098e462b3, type: 3}
+    - {fileID: 2800000, guid: 8cbb2b5e86c9c8245bf6e8a54d5eb1a8, type: 3}
+    - {fileID: 2800000, guid: 99f3b1485210d44cbb77d00d97130a48, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f6b7d591a26bf44558263208529c98bd, type: 3}
+  - {fileID: 21300000, guid: f05a6395e47ee47258abcd5f99880515, type: 3}
+  - {fileID: 21300000, guid: 5e2f6a4625c404365b27315098e462b3, type: 3}
+  - {fileID: 21300000, guid: e224f6f6343904de1ba76ef067656e77, type: 3}
+  - {fileID: 21300000, guid: 55e6a0076076e4164b55b85864d63fbe, type: 3}
+  - {fileID: 21300000, guid: e859856735f4d46708a55b6ec09db1d7, type: 3}
+  - {fileID: 21300000, guid: 33f7ad081ce2544858b97c1d7090fe57, type: 3}
+  - {fileID: 21300000, guid: 99f3b1485210d44cbb77d00d97130a48, type: 3}
+  - {fileID: 21300000, guid: 2619b5ea0888f4a47a6fff43ea7d90da, type: 3}
+  - {fileID: 21300000, guid: 8cbb2b5e86c9c8245bf6e8a54d5eb1a8, type: 3}
+  - {fileID: 21300000, guid: 6023706eaf2784a6eabd2b677f472dbe, type: 3}
+  - {fileID: 21300000, guid: c6f7de7fa21164f2ca538c005bc1a86d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 2d_event_meter_frame
+  - 2d_event_inner_bg
+  - btn green big
+  - 2d_event_meter_bg
+  - 2d_checkers_club
+  - 2d_btn_green_small
+  - 2d_event_bg
+  - glow 1
+  - 2d_event_reward_bg
+  - counter_sprite
+  - 2d_event_holder_front
+  - 2d_event_panel_big
+  m_Tag: CongratulationsSpriteAtlas
+  m_IsVariant: 0
